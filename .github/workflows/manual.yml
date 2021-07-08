@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: TheFredward/udacity-python-helloworld:latest
+          tags: TheFredward/udacity-python-helloworld
